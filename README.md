@@ -1,7 +1,6 @@
 # Budget-Tracker
-# Budget-Tracker
 ```
-An application that lets you keep track of your budget even when you are offline.
+Online/offline budget tracker
 ```
 
 ## Table of Contents
@@ -15,11 +14,11 @@ An application that lets you keep track of your budget even when you are offline
 
 ## Usage
 
-To start using this application please go to:
+To try this application you can visit https://budget-tracker-elliotmrgn.herokuapp.com/
 
 ## Description
 
-
+This application utilizes a service worker to cache data, making the application accessible offline. Additionally it caches the users input and updates the application's server side data once the user has gone online again.
 
 ## Built With
 
@@ -35,4 +34,4 @@ To start using this application please go to:
 * MIT
 
 ## Author
-
+elliotmrgn
